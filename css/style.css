@@ -1,0 +1,119 @@
+/* Enter your custom styles here */
+
+.point1{
+    bottom:38%;
+	left:26%; 
+	width:85%;
+	height:30%;
+	position:absolute;
+}
+.point2{
+	top:48%;
+	left:70%;
+	width:85%;
+	height:30%;
+	position:absolute;
+}
+.line{
+	width:100%;
+	height:1px;
+	position:absolute;
+	top:49%;
+	left:0px;
+	background-color:black;
+}
+.num0{
+	position:absolute;
+	left:2%;
+	top:80%;
+	font-size:62.5%;
+}
+.num1{
+	position:absolute;
+	left:25%;
+	top:80%;
+	font-size:62.5%;
+}
+.num2{
+	position:absolute;
+	left:50%;
+	top:80%;
+	font-size:62.5%;
+}
+.num3{
+	position:absolute;
+	left:75%;
+	top:80%;
+	font-size:62.5%;
+}
+.num4{
+	position:absolute;
+	left:95%;
+	top:80%;
+	font-size:62.5%;
+}
+.letterD{
+	position:absolute;
+	left:25%;
+	top:5%;
+	font-size:62.5%;
+}
+.letterC{
+	position:absolute;
+	left:50%;
+	top:5%;
+	font-size:62.5%;
+}
+.letterB{
+	position:absolute;
+	left:75%;
+	top:5%;
+	font-size:62.5%;
+}
+.letterA{
+	position:absolute;
+	left:94%;
+	top:5%;
+	font-size:62.5%;
+}
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-bottom: 8px solid black;
+} 
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-top: 8px solid black;
+} 
+.tableClass {
+	width:150px;
+	height:60px;
+	background-color:black;
+	position:absolute;
+}
+.rectangleRed {
+	float:left;
+	width:50px;
+	height:100%;
+	background-color:red;
+}
+.rectangleOrange {
+	float:left;
+	width:50px;
+	height:100%;
+	background-color:orange;
+}
+.rectangleGreen {
+	float:left;
+	width:50px;
+	height:100%;
+	background-color:green;
+}
+.columnStyle {
+	width: 33%;
+}

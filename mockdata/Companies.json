@@ -1,0 +1,265 @@
+{ "Customers": [ 
+     {
+     "CustomerId":"0001",
+     "Customer": "TOYOTA MOTOR CORPORATION",
+      "Sector": "Auto/Chubu",
+     "BU": "Auto",
+     "AE": "Fushihara Noriaki",
+      "Alert" :true,
+     "AllAverageScore": 3.2,
+     "CXOAverageScore": 1.5,
+      "roleSet":[
+      	{"roleId":"role111",
+      	 "category":"CEO",
+      	 "roleName":"CEO",
+      	 "Innovator":true
+      	},{
+      	 "roleId":"role112",
+      	 "category":"Finace",
+      	 "roleName":"CFO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role113",
+      	 "category":"Finace",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role114",
+      	 "category":"Finace",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role115",
+      	 "category":"HR",
+      	 "roleName":"CHO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role116",
+      	 "category":"HR",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role117",
+      	 "category":"HR",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  }
+      	  ,{
+      	 "roleId":"role118",
+      	 "category":"IT",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role119",
+      	 "category":"IT",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  }
+      	]
+     },
+     {
+     	  "CustomerId":"0002",
+     "Customer": "Mitsubishi Motors Corporation",
+      "Sector": "Auto/Chubu",
+     "BU": "Auto",
+     "AE": "Shishido Tsuyoshi",
+     "Alert" :true,
+     "AllAverageScore": 2.2,
+       "CXOAverageScore": 0.5,
+            "roleSet":[
+      	{"roleId":"role111",
+      	 "category":"CEO",
+      	 "roleName":"CEO",
+      	  "Innovator":false
+      	},{
+      	 "roleId":"role112",
+      	 "category":"Finace",
+      	 "roleName":"CFO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role113",
+      	 "category":"Finace",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role114",
+      	 "category":"Finace",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role115",
+      	 "category":"HR",
+      	 "roleName":"CHO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role116",
+      	 "category":"HR",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role117",
+      	 "category":"HR",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  }
+      	  ,{
+      	 "roleId":"role118",
+      	 "category":"IT",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role119",
+      	 "category":"IT",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role120",
+      	 "category":"IT",
+      	 "roleName":"Staff2",
+      	  "Innovator":false
+      	  }
+      	]
+    },
+     {
+    "CustomerId":"0003",
+     "Customer": "Nissan Motor Co., Ltd.",
+     "Sector": "Auto/Chubu",
+     "BU": "Chubu",
+     "AE": "Takehiro Kei",
+     "Alert" :true,
+     "AllAverageScore": 3.0,
+     "CXOAverageScore": 1.9,
+      "roleSet":[
+      	{"roleId":"role111",
+      	 "category":"CEO",
+      	 "roleName":"CEO",
+      	  "Innovator":false
+      	},{
+      	 "roleId":"role112",
+      	 "category":"Finace",
+      	 "roleName":"CFO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role113",
+      	 "category":"Finace",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role114",
+      	 "category":"Finace",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role115",
+      	 "category":"HR",
+      	 "roleName":"CHO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role116",
+      	 "category":"HR",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role117",
+      	 "category":"HR",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  }
+      	  ,{
+      	 "roleId":"role118",
+      	 "category":"IT",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role119",
+      	 "category":"IT",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role120",
+      	 "category":"IT",
+      	 "roleName":"Staff2",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role121",
+      	 "category":"IT",
+      	 "roleName":"Staff3",
+      	  "Innovator":false
+      	  }
+      	]
+    },
+     {
+     	  "CustomerId":"0004",
+     "Customer": "Toyota Tsusho Corporation",
+     "Sector": "Auto/Chubu",
+     "BU": "Chubu",
+     "AE": "Takehiro Kei",
+      "Alert" :true,
+     "AllAverageScore": 2.8,
+       "CXOAverageScore": 2.1,
+             "roleSet":[
+      	{"roleId":"role111",
+      	 "category":"CEO",
+      	 "roleName":"CEO",
+      	  "Innovator":false
+      	},{
+      	 "roleId":"role112",
+      	 "category":"Finace",
+      	 "roleName":"CFO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role113",
+      	 "category":"Finace",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role114",
+      	 "category":"Finace",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role115",
+      	 "category":"HR",
+      	 "roleName":"CHO",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role116",
+      	 "category":"HR",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role117",
+      	 "category":"HR",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  }
+      	  ,{
+      	 "roleId":"role118",
+      	 "category":"IT",
+      	 "roleName":"Direct",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role119",
+      	 "category":"IT",
+      	 "roleName":"Staff",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role120",
+      	 "category":"IT",
+      	 "roleName":"Staff2",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role121",
+      	 "category":"IT",
+      	 "roleName":"Staff3",
+      	  "Innovator":false
+      	  },{
+      	 "roleId":"role122",
+      	 "category":"IT",
+      	 "roleName":"Staff4",
+      	  "Innovator":false
+      	  }
+      	]
+    }
+    ]
+}

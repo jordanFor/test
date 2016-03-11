@@ -1,0 +1,39 @@
+<mvc:View controllerName="sap.coveragemap.maintainmycustomer.controller.Home"
+    xmlns:html="http://www.w3.org/1999/xhtml" 
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:l="sap.ui.layout"
+	xmlns="sap.m">
+			<Page showSubHeader="true" id="customerListPage" navButtonPress="onNavButtonPress" showNavButton="true"
+	     	title="{i18n>pageTitle4CustomerListPage}" backgroundDesign="Standard" class="sapUiResponsiveContentPadding">
+		    <content>
+		     <!--Table id="compniesTable" 
+				   items="{customerModel>/Companies}"
+				   itemPress="onItemPressed11">
+				<headerToolbar>
+					<Toolbar>
+						<Title text="{i18n>customerList}" level="H2"/>
+						<ToolbarSpacer />
+						<Text text="3 role"></Text>
+					<!	<ToolbarSpacer />
+						<Button press="onSortButtonPressed" type="Accept" text="{i18n>customerDetails}" tooltip="{i18n>showCustomerDetails}"/>>
+					</Toolbar>
+				</headerToolbar> 
+				<columns>
+					<Column id="customerCol"><Text text="{i18n>customer}"/></Column>
+					<Column id="alertCol"><Text text="{i18n>alert}"/></Column>
+					<Column id="allAverageScoreCol"><Text text="{i18n>allAverageScore}"/></Column>
+				</columns>
+				<items>
+					<ColumnListItem type="Navigation" press="onItemPressed"> 
+						<cells>
+							<Text text="{customerModel>Customer}" />
+							<<Button icon="sap-icon://FioriInAppIcons/Fire" visible="{customerModel>Alert}" type="Transparent"/>>
+							<Button icon="sap-icon://alert" visible="{customerModel>Alert}" type="Transparent"/>
+							<Text text="{customerModel>AllAverageScore}"/>
+						</cells>
+					</ColumnListItem>
+				</items>
+			</Table-->
+	    	</content>
+		 </Page>
+</mvc:View>
